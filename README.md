@@ -13,5 +13,6 @@ This application is meant to make a wrestling bracket automaticly after putting 
 Commented out in the code.
 ## Author
 Seth Gilliland
+
 https://aydenw359.github.io/
 
