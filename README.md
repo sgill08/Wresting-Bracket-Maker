@@ -12,7 +12,7 @@ This application is meant to make a wrestling bracket automaticly after putting 
 ## Credits
 Commented out in the code.
 ## Authors
-Seth Gilliland
+Seth G
 
 https://aydenw359.github.io/
 
